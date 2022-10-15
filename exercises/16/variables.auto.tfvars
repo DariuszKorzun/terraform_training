@@ -1,0 +1,1 @@
+aws_internet_gateway_igw-vpc-west-1_name = "igw-vpc-west-1"
